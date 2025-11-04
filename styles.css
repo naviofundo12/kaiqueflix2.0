@@ -1,0 +1,26 @@
+body {
+    color: rgb(230, 19, 19);
+    background: rgb(71, 71, 71);
+    margin: 0px;
+     font-family: "Quicksand", sans-serif;
+}
+
+header {
+    border-bottom: solid 3px rgb(250, 178, 250);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(235, 154, 255));
+    
+}
+
+section {
+    background: rgb(153, 153, 153);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
